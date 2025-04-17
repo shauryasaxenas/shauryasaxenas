@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryasaxenas&label=Profile%20views&color=0e75b6&style=flat" alt="shauryasaxenas" /> </p>
 
-- 🔭 I’m currently working on [canvas.lte](https://github.com/shauryasaxenas/canvas.lte)
+- 🔭 I’m currently working on [canvas.lte](https://github.com/shauryasaxenas/canvas.lte) and [AnalyzeSpotify][https://github.com/shauryasaxenas/AnalyzeSpotify]
 
 - 🌱 I’m currently learning **Deep Learning, D3.js, Docker, and system design fundamentals**
 
