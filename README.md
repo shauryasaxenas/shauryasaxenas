@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Optimizing ML pipelines and deploying models**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shauryasaxenas](https://github.com/shauryasaxenas)
+- 👨‍💻 All of my projects are available on my [github](https://github.com/shauryasaxenas)
 
 - 💬 Ask me about **Python, data analysis, and anything related to data science**
 
