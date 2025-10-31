@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryasaxenas&label=Profile%20views&color=0e75b6&style=flat" alt="shauryasaxenas" /> </p>
 
-- 🔭 I’m currently working on [canvas.lte](https://github.com/shauryasaxenas/canvas.lte) and [Stats4You](https://github.com/shauryasaxenas/Stats4You)
+-  I’m currently working on [canvas.lte](https://github.com/shauryasaxenas/canvas.lte) and [Stats4You](https://github.com/shauryasaxenas/Stats4You)
 
-- 🌱 I’m currently learning **Deep Learning, D3.js, Docker, and system design fundamentals**
+-  I’m currently learning **Deep Learning, D3.js, Docker, and system design fundamentals**
 
-- 👯 I’m looking to collaborate on **Data-driven web apps, machine learning models, or open-source tools**
+-  I’m looking to collaborate on **Data-driven web apps, machine learning models, or open-source tools**
 
-- 🤝 I’m looking for help with **Optimizing ML pipelines and deploying models**
+-  I’m looking for help with **Optimizing ML pipelines and deploying models**
 
-- 👨‍💻 All of my projects are available on my [github](https://github.com/shauryasaxenas)
+-  All of my projects are available on my [github](https://github.com/shauryasaxenas)
 
-- 💬 Ask me about **Python, data analysis, and anything related to data science**
+-  Ask me about **Python, data analysis, and anything related to data science**
 
-- 📫 How to reach me **shaurya_saxena@mines.edu**
+-  How to reach me **shaurya_saxena@mines.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
